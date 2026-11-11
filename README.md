@@ -1,3 +1,14 @@
+> **CultureReset fork of [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery).** A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
+>
+> - **Why it is here:** Saved for reference.
+> - **Does anything run from it:** No.
+> - **Changes:** The default branch has no CultureReset commits; it is upstream as of the last sync.
+> - **License:** Apache-2.0, from upstream. For updates and issues, use [upstream](https://github.com/google-ai-edge/gallery).
+>
+> The upstream README follows unchanged.
+
+---
+
 # Google AI Edge Gallery ✨
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
